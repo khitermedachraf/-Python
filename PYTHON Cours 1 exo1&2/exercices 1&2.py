@@ -1,4 +1,4 @@
-Exercice 1 -quelle est la ligne de commandes à écrire?
+Exercice 1 -quelle est la ligne de commandes ï¿½ ï¿½crire?
 ?import sys
 ?mark1 = sys.argv[1]
 ?mark2 = sys.argv[2]
@@ -17,3 +17,5 @@ Exercice 1 -quelle est la ligne de commandes à écrire?
 La Solution :test.py '12.5' '15.75' '14.24' PYTHON BDD POO .
 et ne pas oublier d ecrire l instruction :
 import sys . 
+
+Exercice 2 -manipulation des arguments avec la mÃ©thode Â« split Â»
